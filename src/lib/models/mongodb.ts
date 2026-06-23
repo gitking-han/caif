@@ -1,4 +1,4 @@
-import { MongoClient } from "mongodb";
+const { MongoClient } = require("mongodb");
 import fs from "fs";
 import path from "path";
 import { Service, Portfolio, Popup, Blog, Contact } from "./types";
@@ -7,7 +7,7 @@ const MONGO_URI = process.env.MONGO_URI;
 const DB_NAME = "apex_studio";
 const DB_FILE = path.join(process.cwd(), "database.json");
 
-let mongoClient: MongoClient | null = null;
+let mongoClient: InstanceType<typeof MongoClient> | null = null;
 let isMongoConnected = false;
 
 async function getMongoClient() {

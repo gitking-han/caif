@@ -1,4 +1,4 @@
-import { MongoClient } from "mongodb";
+const { MongoClient } = require("mongodb");
 import fs from "fs";
 import path from "path";
 
@@ -7,7 +7,7 @@ const MONGO_URI = process.env.MONGO_URI;
 const DB_NAME = "apex_studio";
 const DB_FILE = path.join(process.cwd(), "database.json");
 
-let mongoClient: MongoClient | null = null;
+let mongoClient: InstanceType<typeof MongoClient> | null = null;
 let isMongoConnected = false;
 
 // Graceful lazy connection wrapper for MongoDB
