@@ -1,0 +1,219 @@
+{
+  "services": [
+    {
+      "id": "wams",
+      "title": "Web Application Management System",
+      "description": "End-to-end orchestration, cloud hosting deployment, continuous DevOps monitoring, security hardening, and real-time scaling of modern SaaS dashboards and web structures.",
+      "iconName": "AppWindow",
+      "details": [
+        "Custom Server Orchestration & Cloud Deployment (GCP, AWS)",
+        "24/7 Server Monitoring & Automated Failover Clusters",
+        "Robust Database Scaling, Backups & Migration Operations",
+        "API Performance Optimization & Cache Tuning"
+      ]
+    },
+    {
+      "id": "mobile",
+      "title": "Mobile App Development",
+      "description": "Stunning iOS and Android native and cross-platform (React Native/Flutter) systems designed with fluid gestures, offline-first architectures, and strict standard-compliant styling.",
+      "iconName": "Smartphone",
+      "details": [
+        "Cross-Platform Native Experience (iOS & Android)",
+        "Pristine Touch-Target Densities & High FPS Transitions",
+        "Smart Local State Persistent Caching",
+        "Push Notification Routing & Secure Biometric Login Hooks"
+      ]
+    },
+    {
+      "id": "graphics",
+      "title": "Graphic Designing",
+      "description": "Expert typography pairings, cohesive branding manuals, sleek high-contrast marketing collateral, and professional layout designs that build premium trust metrics.",
+      "iconName": "Palette",
+      "details": [
+        "High-Fidelity Vectors & Print-Ready Collaterals",
+        "UX/UI Visual Archetype Systems & Layout Grids",
+        "Custom Typography & Iconographies",
+        "Social Media Visual Templates & Vector Illusions"
+      ]
+    },
+    {
+      "id": "editing",
+      "title": "Professional Video Editing",
+      "description": "Premium dynamic storytelling, meticulous sound engineering, balanced color gradings, and clean motion overlays that capture user interest from the opening frames.",
+      "iconName": "Film",
+      "details": [
+        "Dynamic B-Roll Selection & Rhythmic Cutting",
+        "Precision S-Log Color Grading & Corrective Balancing",
+        "Immersive Sound Design & Ambient SFX Balancing",
+        "Subtle Typography Superimposition & Motion Accents"
+      ]
+    },
+    {
+      "id": "logo",
+      "title": "Premium Logo Making",
+      "description": "Minimalist, symbolic, and high-impact custom vector marks designed on grids. Engineered to resonate immediately and withstand extreme scaling across physical and digital mediums.",
+      "iconName": "Compass",
+      "details": [
+        "Original Concepts Designed on Golden Ratio Grids",
+        "Comprehensive Vector Assets (.SVG, .EPS, .AI, .PNG)",
+        "Color Variation Maps (Light, Dark, Monochromatic)",
+        "Intellectual Property Sign-Off & Corporate Styleguides"
+      ]
+    },
+    {
+      "id": "seo",
+      "title": "Digital Marketing & SEO",
+      "description": "Search visibility maximization, strict performance audit-compliant on-page optimization, content blueprints, and multi-channel performance advertising campaigns that drive conversion rates.",
+      "iconName": "TrendingUp",
+      "details": [
+        "Lighthouse Audited Speed and On-Page Schema Optimization",
+        "High-Intent Organic Keyword Map Deployments",
+        "Continuous Analytics Tagging & Interactive Sales Funnels",
+        "White-Hat Backlink Development & Domain Authority Boosting"
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "proj1",
+      "title": "VeloSaaS: Cloud Infrastructure",
+      "category": "Web",
+      "description": "Built the unified control dashboard and elastic server management pipeline that reduced backend delays by 40%.",
+      "imageName": "web_dashboard_screenshot",
+      "techUsed": ["React", "Express", "Docker", "Nginx", "Redis"],
+      "client": "Velocity Cloud Corp",
+      "year": "2025",
+      "keyOutcome": "40% latency reduction & autoscaling to 25k concurrent users"
+    },
+    {
+      "id": "proj2",
+      "title": "EcoTransit: GPS Transit App",
+      "category": "Mobile",
+      "description": "Designed and developed an offline-first public transit routing application with seamless route sync sequences.",
+      "imageName": "mobile_app_eco",
+      "techUsed": ["React Native", "Mapbox", "SQLite", "Node.js"],
+      "client": "EcoTransit Municipal Inc",
+      "year": "2024",
+      "keyOutcome": "Active community of 110,000 monthly transit users"
+    },
+    {
+      "id": "proj3",
+      "title": "Sunder: Fine Art Branding",
+      "category": "Design",
+      "description": "Executed a holistic corporate visual design system expressing premium minimalism for an international fine art house.",
+      "imageName": "brand_identity_sunder",
+      "techUsed": ["Adobe Illustrator", "Golden Ratio Grid", "Figma"],
+      "client": "Sunder Galleries NYC",
+      "year": "2025",
+      "keyOutcome": "Clean guidelines document defining color, spacing and typography"
+    },
+    {
+      "id": "proj4",
+      "title": "NeoCity Documentary Short",
+      "category": "Editing",
+      "description": "Engineered color, dynamic sound overlays, and typography edits for a 10-minute urban renewal mini-feature.",
+      "imageName": "video_editor_timeline",
+      "techUsed": ["Premiere Pro", "DaVinci Resolve", "After Effects"],
+      "client": "NeoCity Architecture Group",
+      "year": "2024",
+      "keyOutcome": "Aired across 3 independent film festivals"
+    },
+    {
+      "id": "proj5",
+      "title": "LUMEN: Biotech Brand Identity",
+      "category": "Design",
+      "description": "Synthesized a modern minimal vector logo system capturing cell mitosis structures on a modern visual matrix.",
+      "imageName": "logo_grid_lumen",
+      "techUsed": ["Vector Grid System", "Symmetrical CAD", "InDesign"],
+      "client": "Lumen Therapeutics Group",
+      "year": "2025",
+      "keyOutcome": "Clean corporate mark registered in EU intellectual registries"
+    },
+    {
+      "id": "proj6",
+      "title": "Storefront SEO Optimization",
+      "category": "SEO",
+      "description": "Engineered rich structured schema, semantic HTML tags, and optimized asset Delivery that boosted organic leads by 180%.",
+      "imageName": "seo_chart_dashboard",
+      "techUsed": ["Structured JSON-LD", "Varnishes", "Web Core Vitals"],
+      "client": "StoreFront Retailers",
+      "year": "2025",
+      "keyOutcome": "180% organic keyword growth hitting page 1 on Google"
+    },
+    {
+      "id": "proj7",
+      "title": "Midas: Digital Trading System",
+      "category": "Web",
+      "description": "Programmed a secure high-speed ledger backend and WebSocket event dispatcher handling raw transactions.",
+      "imageName": "stock_trading_broker",
+      "techUsed": ["Express", "TypeScript", "WebSocket", "PostgreSQL"],
+      "client": "Midas Asset Arbitrage",
+      "year": "2026",
+      "keyOutcome": "Executed over 2 million secure micro-transactions without issue"
+    },
+    {
+      "id": "proj8",
+      "title": "ZenFit: Home Workout App",
+      "category": "Mobile",
+      "description": "Programmed an offline-first mobile companion syncing workout telemetry with motion sensor metrics.",
+      "imageName": "workout_app_mockup",
+      "techUsed": ["Flutter", "Google Fit API", "RealmDB"],
+      "client": "ZenFit Global Studio",
+      "year": "2025",
+      "keyOutcome": "Maintained 4.8 star average across Apple and Android stores"
+    }
+  ],
+  "popups": [
+    {
+      "id": "pop1",
+      "title": "⚡ Limited Premium Event",
+      "type": "Offer",
+      "message": "Enlist for the 'Web Autopilot' Suite before June 30th to secure a complementary 60-day premium maintenance package completely free of cost.",
+      "link": "/services",
+      "active": true
+    },
+    {
+      "id": "pop2",
+      "title": "📰 Studio Expansion",
+      "type": "News",
+      "message": "Apex Tech is proud to announce our newly expanded physical footprint in London, expanding our localized SLA capabilities throughout Western Europe.",
+      "link": "/about",
+      "active": false
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog1",
+      "title": "The Future of Web Autopilot Systems with Elastic Orchestration",
+      "slug": "future-of-web-autopilot",
+      "description": "Discover how automated failovers, multi-region load balancers, and real-time containerized clusters prevent digital friction and reduce cost footprints.",
+      "category": "Web Technology",
+      "author": "Marcus Thorne",
+      "date": "June 15, 2026",
+      "readTime": "6 min read",
+      "content": "### Introduction\n\nIn the era of hyper-scale internet platforms, latency is no longer just a technical annoyance; it is a business critical failure metric. Research proves that even a 100ms lag can drop visual conversion rates by up to 7%. The answer? **Autonomous Elastic Web Engineering** — colloquially referred to as Web Autopilot Systems.\n\n### The Core Pillars of Autopilot Hosting\n\n1. **Dynamic Container Orchestration**:\n   By managing isolated Node nodes inside containerized clouds, systems dynamically scale out resource threads during traffic floods, shrinking them gracefully to zero when idle to conserve client budgets.\n\n2. **Automatic DB Replica Swapping**:\n   Active ledger reading states automatically target localized replicas, reserving core primary cluster nodes purely for transaction modifications.\n\n3. **Proactive CDN & Cache Priming**:\n   Using modern service layers, critical visual assets are aggressively cached at edge cloud zones, rendering page loads in milliseconds rather than seconds.\n\n### Practical Implementations\n\nTo configure a standard load-balancing proxy to distribute ingress payloads across available healthy system mirrors, administrators construct strict proxy rulesets that verify system status health endpoints periodically. This guarantees high-availability with zero human interaction.\n\n> \"Autopilot systems transform hosting from a continuous fire-fighting routine into a calm, automated infrastructure operation.\"\n\nAt Apex Tech, we build with resilient failover boundaries to keep your platform completely responsive under sudden surges."
+    },
+    {
+      "id": "blog2",
+      "title": "How Grid-Aligned Geometric Visuals Secure User Trust",
+      "slug": "grid-aligned-visuals-trust",
+      "description": "Unveiling the psychological metrics of golden ratio design frameworks, spatial densities, and elite high-contrast layouts in business conversion rates.",
+      "category": "Graphic Design",
+      "author": "Genevieve Vance",
+      "date": "May 28, 2026",
+      "readTime": "4 min read",
+      "content": "### Aesthetics is a Science\n\nWhen a visitor lands on your interface, they formulate an intuitive assessment of your product's credibility in less than 50 milliseconds. This subconscious assessment is heavily driven by spatial rhythm. If elements are misaligned by even 2 pixels, users experience cognitive friction, inducing subtle distrust.\n\n### Why the Golden Ratio Grid Framework Matters\n\n- **Mathematical Symmetries**: Nature is designed in proportional spirals. Applying the Golden Ratio ($1:1.618$) to logomarks and padding variables establishes an organic sense of balance.\n- **Typography Scaling**: Constraining your headings to strict harmonic progressions (e.g., 12px -> 14px -> 18px -> 24px -> 36px) yields a predictable, highly readable structure.\n- **Density Contrasts**: Embracing spacious negative margins draws instant visual focus to active CTAs. Cluttered layouts, by contrast, exhaust the eye.\n\n### Craft in Practice\n\nAt our Manhattan visual labs, every logomark is constructed on structural vector grids. This ensures complete clarity and typographic sharpness whether rendered on an micro smartwatch facial screen or a high-resolution outdoor billboard."
+    },
+    {
+      "id": "blog3",
+      "title": "Maximizing Visibility with Comprehensive Structured Schema",
+      "slug": "maximizing-visibility-schema",
+      "description": "Demystifying on-page structured JSON-LD architectures and speed audits to dominate modern AI-driven search engine result layouts.",
+      "category": "SEO Campaigns",
+      "author": "Elena Rostova",
+      "date": "April 18, 2026",
+      "readTime": "5 min read",
+      "content": "### Search Engines are Database Parsers\n\nModern search crawlers no longer crawl text as flat strings; they parse data structures. If your content is not annotated with rich schema layouts, it remains invisible to AI-powered search crawlers and semantic summaries.\n\n### Integrating JSON-LD Annotations\n\nBy injecting structured metadata into your page layouts, you feed crawlers precise contextual data about your ratings, pricing levels, and office locations:\n\n```json\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ProfessionalService\",\n  \"name\": \"Apex Tech & Creative Studio\",\n  \"url\": \"https://apextech.studio\",\n  \"logo\": \"https://apextech.studio/logo.png\",\n  \"priceRange\": \"$$\"\n}\n```\n\n### Speed Auditing Frameworks\n\n- **Minimize Javascript Overhead**: Remove heavy unneeded third-party scripts that block initial layouts.\n- **Leverage Modern Formats**: Transmit digital visual files inside compressed next-gen frameworks like WebP or AVIF.\n- **Optimize Font Load Latencies**: Inline core text styling grids to prevent layout swaps during rendering."
+    }
+  ]
+}

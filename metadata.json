@@ -1,0 +1,6 @@
+{
+  "name": "Apex Tech & Creative Agency",
+  "description": "Premium multi-disciplinary digital agency offering web application management, mobile app development, graphic design, professional video editing, logo design, digital marketing, SEO, and an interactive AI technical troubleshooter console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
