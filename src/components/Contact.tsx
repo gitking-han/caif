@@ -125,7 +125,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-slate-400 uppercase tracking-widest block">Email Inbound</span>
-                    <span className="text-xs font-bold text-slate-800 block mt-1">proposals@apextech.studio</span>
+                    <span className="text-xs font-bold text-slate-800 block mt-1">caiftechsolutions@gmail.com</span>
                   </div>
                 </div>
 
@@ -136,7 +136,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-slate-400 uppercase tracking-widest block">Active Network NOC</span>
-                    <span className="text-xs font-bold text-slate-800 block mt-1">+1 (800) 999-APEX</span>
+                    <span className="text-xs font-bold text-slate-800 block mt-1">+92 349 2129057</span>
                   </div>
                 </div>
 
@@ -147,7 +147,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-slate-400 uppercase tracking-widest block">HQ Operations</span>
-                    <span className="text-xs font-bold text-slate-800 block mt-1">One World Trade Suite, NYC</span>
+                    <span className="text-xs font-bold text-slate-800 block mt-1">Iftikhar Town Jauharabad, District Khushab, Pakistan</span>
                   </div>
                 </div>
 
